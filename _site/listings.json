@@ -3,7 +3,16 @@
     "listing": "/index.html",
     "items": [
       "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/andreasbeta/posts/post-with-code/index.html",
+      "/posts/welcome/index.html",
+      "/andreasbeta/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/andreasbeta/index.html",
+    "items": [
+      "/andreasbeta/posts/post-with-code/index.html",
+      "/andreasbeta/posts/welcome/index.html"
     ]
   }
 ]
